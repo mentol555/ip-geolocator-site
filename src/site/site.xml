@@ -5,7 +5,7 @@
 	<body>
 		<menu ref="reports"/>
 	</body>
-	<!-- Fluido skin -->
+	<!-- Fluido skin:-->
 	<skin>
 		<groupId>org.apache.maven.skins</groupId>
 		<artifactId>maven-fluido-skin</artifactId>
